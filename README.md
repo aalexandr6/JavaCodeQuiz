@@ -10,13 +10,13 @@ https://aalexandr6.github.io/JavaCodeQuiz/
  - [Questions](#questions)
   
 ## Project Description
-A timed Javascript quiz on fundamentals that stores high scores to see progress
+A timed Javascript quiz on fundamentals that stores high scores to see progress.
      
 ## Installation 
     None
   
 ## Usage 
-Start quiz and answer question within time limit
+Start quiz and answer questions within the time limit.
   
 ## Contribution
 None
