@@ -60,7 +60,7 @@ header h4 {
 }
 /* Body */
 body{
-    background-image: url(./assets/codebg.png);
+    background-image: url(/assets/codebg.png);
     background-repeat: no-repeat;
     background-position:center; 
     background-size: cover;
