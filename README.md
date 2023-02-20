@@ -1,5 +1,5 @@
 # JavaCodeQuiz
-  
+https://aalexandr6.github.io/JavaCodeQuiz/
 ## Table of Contents
  - [Description](#project-description)
  - [Installation](#installation)
@@ -9,7 +9,7 @@
  - [Questions](#questions)
   
 ## Project Description
-A Timed Javascript quiz on fundamentals that stores high scores to see progress
+A timed Javascript quiz on fundamentals that stores high scores to see progress
      
 ## Installation 
     None
