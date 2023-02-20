@@ -1,5 +1,6 @@
 # JavaCodeQuiz
 https://aalexandr6.github.io/JavaCodeQuiz/
+<img src="/assets/quiz.png">
 ## Table of Contents
  - [Description](#project-description)
  - [Installation](#installation)
